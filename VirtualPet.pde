@@ -1,11 +1,3 @@
-
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
-
 size(400,400);
 noStroke();
 fill(85,55,55);
